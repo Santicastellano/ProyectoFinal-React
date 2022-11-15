@@ -1,0 +1,41 @@
+.navbar {
+  position: sticky;
+  top: 0.1px;
+  z-index: 100;
+  background-color: #47cad1;
+}
+.nav-item {
+  color: black !important;
+}
+.navbar-icons {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+  cursor: pointer;
+  background: #47cad1;
+  background: -webkit-linear-gradient(to left, #47cad1, #268cc3);
+  background: linear-gradient(to left, #47cad1, #268cc3);
+  padding: 0.6rem;
+  border-radius: 50%;
+  color: aliceblue;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar-icons:hover {
+  transform: scale(1.08);
+  background: #ff3a5b;
+  background: -webkit-linear-gradient(to left, #47cad1, #268cc3);
+  background: linear-gradient(to left, #47cad1, #268cc3);
+}
+
+.navbar__logo {
+  font-size: 1.8rem;
+}
+
+.navbar__logo-text {
+  color: #268cc3;
+  font-weight: 600;
+}
+
+.search__read-only {
+  background-color: white !important;
+}
