@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
+
+
+
 body {
   font-family: "Poppins", sans-serif !important;
 }
@@ -39,4 +42,24 @@ button:disabled {
 }
 .nav-mobile {
   display: none;
+}
+
+.product-item .card{
+  background-color: white;
+  border-radius: 15px;
+  border-color: #373a3c;
+  border-bottom: 1px solid #46b0e1; 
+}
+.product-item .card img{
+  border-top-left-radius: 15px;
+  border-top-right-radius: 11px; 
+
+}
+.card-footer{
+  color: black;
+  border: 0px;
+  background-color: white;
+}
+.products{
+  background-color: #373a3c;
 }

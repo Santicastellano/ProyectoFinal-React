@@ -3,15 +3,10 @@ import Cart from "../cart/Cart";
 import { useForm } from "react-hook-form";
 import { checkoutValidation } from "../../utils/checkoutValidation";
 import "./Checkout.css";
+import swal from "sweetalert";
 
 const CheckoutForm = () => {
-  const handleClick = () =>{
-    return(
-      <div>
-        compra finalizada
-      </div>
-    )
-  }
+
 
   //useForm hook
   const {
@@ -145,9 +140,24 @@ const CheckoutForm = () => {
                 </h6>
                 <button
                   className="btn btn-color w-100"
-                  onClick={() => handleClick()}
+                  onClick={() =>{
+                    swal({
+                      title: "UPS, OCURRIO UN ERROR",
+                      text: "Desea continuar con su pedido?",
+                      icon:"warning",
+                      buttons: ["NO","SI"],
+                    })
+                    .then(Respuesta =>{
+                      if(Respuesta){
+                        swal({
+                          text: "Porfavor comuniquese con el siguiente numero: 1122334455. Disculpe el inconveniente",
+                          icon:"success",
+                        })
+                      }
+                    })
+                  }}
                 >
-                  Go home
+                  Confirmar Compra
                 </button>
               </div>
             </form>
