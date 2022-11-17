@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Santicastellano/ProyectoFinal-React/build/static/css/main.f28bd6a1.css",
+    "main.js": "/Santicastellano/ProyectoFinal-React/build/static/js/main.086b57bb.js",
+    "static/media/cover-img.png": "/Santicastellano/ProyectoFinal-React/build/static/media/cover-img.392f1161d75671341cb3.png",
+    "static/media/samsung-galaxy-s21-fe-5g.png": "/Santicastellano/ProyectoFinal-React/build/static/media/samsung-galaxy-s21-fe-5g.a62be52625f4a5c4ab66.png",
+    "static/media/Samsung-Galaxy-S22-Ultra.png": "/Santicastellano/ProyectoFinal-React/build/static/media/Samsung-Galaxy-S22-Ultra.eeff2d2a62452c47e0d9.png",
+    "static/media/asus-rog-6-pro.png": "/Santicastellano/ProyectoFinal-React/build/static/media/asus-rog-6-pro.ebbb1a3b535fb76bfb63.png",
+    "static/media/google-pixel-6-pro.png": "/Santicastellano/ProyectoFinal-React/build/static/media/google-pixel-6-pro.4d3d7f12e09ca61c281c.png",
+    "static/media/realme-gt-2-pro.png": "/Santicastellano/ProyectoFinal-React/build/static/media/realme-gt-2-pro.f0f653522e8cb253ab25.png",
+    "static/media/xiaomi_9t.png": "/Santicastellano/ProyectoFinal-React/build/static/media/xiaomi_9t.e95a5c8ac1baca932369.png",
+    "static/media/samsung-galaxy-a52.png": "/Santicastellano/ProyectoFinal-React/build/static/media/samsung-galaxy-a52.e1e0a78787008dc58583.png",
+    "static/media/xiaomi-12-pro.png": "/Santicastellano/ProyectoFinal-React/build/static/media/xiaomi-12-pro.925885c44d3771f9afd3.png",
+    "static/media/confirmation.png": "/Santicastellano/ProyectoFinal-React/build/static/media/confirmation.efc7c6b78f8cd28427a4.png",
+    "static/media/xiaomi_10.png": "/Santicastellano/ProyectoFinal-React/build/static/media/xiaomi_10.bc3a6ac9a8fbd0d28f65.png",
+    "static/media/xiaomi_11.png": "/Santicastellano/ProyectoFinal-React/build/static/media/xiaomi_11.b7ab0a52b9254ba5df28.png",
+    "static/media/empty.webp": "/Santicastellano/ProyectoFinal-React/build/static/media/empty.487dbccee1642cd39d1c.webp",
+    "index.html": "/Santicastellano/ProyectoFinal-React/build/index.html",
+    "main.f28bd6a1.css.map": "/Santicastellano/ProyectoFinal-React/build/static/css/main.f28bd6a1.css.map",
+    "main.086b57bb.js.map": "/Santicastellano/ProyectoFinal-React/build/static/js/main.086b57bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28bd6a1.css",
+    "static/js/main.086b57bb.js"
+  ]
+}
